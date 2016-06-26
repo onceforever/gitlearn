@@ -9,4 +9,6 @@ Create a new branch is quick and simple.
 I like ZhangHang even love .
 Today is Sunday .
 Tomorrow  is Monday .
-I love ZhangHang ,but she doesn't accept me .
+I love ZhangHang ,but she doesn't accept me .I have been waiting for her since I was 13.
+I'm going to use amend.
+I don't know about amend.
