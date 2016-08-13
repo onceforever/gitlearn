@@ -12,3 +12,5 @@ Tomorrow  is Monday .
 I love ZhangHang ,but she doesn't accept me .I have been waiting for her since I was 13.
 I'm going to use amend.
 I don't know about amend.
+
+http://blog.sina.com.cn/s/blog_69f0a53d0100w02l.html
